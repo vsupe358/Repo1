@@ -1,0 +1,14 @@
+Steps to add/push projects on Github
+
+1]git init
+2]git status
+3]git add
+4]git commit -m "message"
+
+5]git remotely add origin http://github.com/vsupe358/Repo1.git
+
+6]get push -u origin master 
+	if it not working 
+
+7] git push origin master --force
+
